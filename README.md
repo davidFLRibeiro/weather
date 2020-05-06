@@ -16,3 +16,5 @@ we can see if weather it´s good or not to go to the beach. and see some news on
 Technology used: HTML, CSS ,JavaScript, JQuery
 
 The API that it´s free and it´s from weatherapi.com
+
+![](![](/img1.png)
