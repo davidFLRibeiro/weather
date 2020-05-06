@@ -2,7 +2,7 @@ Azores Islands Beach Weather Tracker
 
 Summary:
 
-The app is about weather and news from azores that are allways good,
+The app is about weather and news from azores that are always good,
 we can see if weather it´s good or not to go to the beach. and see some news on the beach.
 
 Motivation:
@@ -18,7 +18,7 @@ Home:
 
 ![](/img1.png)
 
-In the home page we have a list of the Islands of the Azores, clicking on th island we will go to island info.
+In the home page we have a list of the Islands of the Azores, clicking on the island we will go to island info.
 
 Island Info:
 ![](/img2.png)
