@@ -10,8 +10,7 @@ Motivation:
 My motivation to create this app it´s because as i live in an island,
 it´s very dificult to use app´s to see weather on islands.
 
-link: https://repl.it/@davidzribeiro/Azores-Islands-Beach-Weather-Tracker
-
+link: https://davidflribeiro.github.io/weather/
 Screenshots:
 Home:
 ![](/img1.png)
