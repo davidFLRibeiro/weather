@@ -351,14 +351,13 @@ p {
     height: 80%;
     overflow: auto;
     background-color: black;
-    background-color: black;
     color: white;
     overflow-x: hidden;
   }
 
   .modal-content {
     padding: 5px;
-    width: 90%;
+    width: 97%;
     position: relative;
     overflow-x: hidden;
   }
@@ -370,15 +369,13 @@ p {
     justify-content: center;
     margin-bottom: 15px;
     text-align: center;
-    margin: auto;
-    padding-right: 10%;
+    margin-left: 20%;
   }
 
   .weather-title {
     background: blue;
     text-align: center;
     font-size: 24px;
-    margin-right: 0;
 
     width: 98%;
     margin-right: 50px;
@@ -466,7 +463,6 @@ p {
     height: 80%;
     overflow: auto;
     background-color: black;
-    background-color: black;
     color: white;
     overflow-x: hidden;
   }
@@ -479,14 +475,14 @@ p {
   }
 
   .weather-data {
-    width: 100%;
+    width: 90%;
     height: 100px;
     display: block;
     justify-content: center;
     margin-bottom: 15px;
     text-align: center;
-    margin: auto;
-    padding-right: 10%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .weather-title {
